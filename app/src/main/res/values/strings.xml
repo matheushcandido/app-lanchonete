@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bacci</string>
+    <string-array name="payment_methods">
+        <item>Dinheiro</item>
+        <item>Cartão</item>
+        <item>Pix</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "198852968302",
+    "firebase_url": "https://bacci-8487f-default-rtdb.firebaseio.com",
+    "project_id": "bacci-8487f",
+    "storage_bucket": "bacci-8487f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198852968302:android:84259102488a44e6ee8b7f",
+        "android_client_info": {
+          "package_name": "com.example.bacci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvOkSArb3QB7CwgbxitSozZnv_mLuCkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

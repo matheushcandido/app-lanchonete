@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="127dp"
+        android:layout_height="125dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="32dp"
+        android:src="@drawable/logo" />
+
+    <Button
+        android:id="@+id/buttonGoToProducts"
+        android:layout_width="192dp"
+        android:layout_height="96dp"
+        android:text="Ir para página de produtos"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/buttonGoToEvents"
+        android:layout_width="192dp"
+        android:layout_height="96dp"
+        android:text="Ir para página de eventos"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/buttonGoToSale"
+        android:layout_width="192dp"
+        android:layout_height="96dp"
+        android:text="Ir para página de venda"
+        android:layout_gravity="center"
+        android:layout_marginBottom="32dp"/>
+
+</LinearLayout>
